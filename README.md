@@ -32,28 +32,6 @@ notifikasi HP, kirim file ke HP, monitor PC, tangkap & rekam layar, dan maskot m
 | 👀 **Maskot** | Mata robot, kucing, kelinci, atau beruang yang melirik, mengikuti kursor dengan gerak alami, berkedip, mengangguk mengikuti musik, dan bereaksi. Banyak aksesori. |
 | 🎨 **Tampilan** | Mode Island, Notch, dan Robot. Belasan skin bergradien, warna kustom, animasi pegas yang mengikuti refresh rate monitor. |
 
-## Galeri
-
-<table>
-<tr>
-<td><img src="docs/preview/beranda.png" alt="Beranda"></td>
-<td><img src="docs/preview/musik.png" alt="Musik"></td>
-</tr>
-<tr>
-<td><img src="docs/preview/cuaca.png" alt="Cuaca"></td>
-<td><img src="docs/preview/sholat.png" alt="Sholat"></td>
-</tr>
-<tr>
-<td><img src="docs/preview/sistem.png" alt="Sistem"></td>
-<td><img src="docs/preview/notif.png" alt="Notifikasi"></td>
-</tr>
-<tr>
-<td><img src="docs/preview/kalender.png" alt="Kalender"></td>
-<td><img src="docs/preview/timer.png" alt="Timer"></td>
-</tr>
-</table>
-
-Lebih banyak di [galeri](https://d1paak.github.io/DiNotch/).
 
 ## Unduh & pasang
 
