@@ -21,7 +21,7 @@ notifikasi HP, kirim file ke HP, monitor PC, tangkap & rekam layar, dan maskot m
 |---|---|
 | 🎵 **Musik & lirik** | Spotify, YouTube Music, browser, dan pemutar lain langsung terdeteksi. Cover, kontrol, lirik sinkron berbahasa apa pun dengan efek karaoke kata demi kata, not musik yang menari saat instrumental, visualizer dari audio asli. |
 | ☁ **Cuaca** | Langit hidup yang ikut cuaca: hujan dengan cipratan, petir, kabut, salju, matahari atau bulan & bintang. Suhu, peluang hujan, prakiraan 6 jam, data resmi **BMKG** per kelurahan. |
-| 🕌 **Sholat** | Jadwal metode Kemenag untuk seluruh Indonesia, langit yang mengikuti matahari, adzan, pengingat. Bisa dimatikan total. |
+| 🕌 **Sholat** | Lokasi terdeteksi otomatis (kota & negara), jadwal metode Kemenag untuk seluruh Indonesia atau MWL / Mesir untuk negara lain (zona waktu & musim panas ikut), langit yang mengikuti matahari, adzan, pengingat. Bisa dimatikan total. |
 | 🔔 **Notifikasi HP** | WhatsApp, SMS / OTP (tombol Salin), Instagram, baterai HP lemah, lewat Phone Link. Pesan panjang tampil utuh. Kartu panggilan WhatsApp dengan Terima / Tolak. |
 | 📱 **Sambung HP** | Pindai QR, langsung terbuka di browser HP (satu Wi-Fi). Kirim foto & file dua arah tanpa batas ukuran, teks ke clipboard, remote musik. Tanpa install aplikasi. |
 | ⚡ **Sistem & Boost** | CPU, RAM, GPU, dan suhu secara langsung. Boost melepas memori dan membersihkan file sementara. |
