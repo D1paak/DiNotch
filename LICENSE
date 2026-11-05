@@ -1,0 +1,44 @@
+DiNotch — End User License Agreement
+Copyright (c) 2026 Dipa. All rights reserved.
+
+DiNotch is proprietary freeware. It is not open source.
+
+1. Permission to use
+   You may download the official DiNotch release from this repository's Releases page and use it,
+   free of charge, on your own computers for personal or work use.
+
+2. What you may not do
+   Without prior written permission from the copyright holder you may not:
+   a. copy, redistribute, re-upload, sell, rent, or sublicense DiNotch or any part of it;
+   b. modify, translate, or create derivative works based on DiNotch;
+   c. decompile, disassemble, or reverse engineer DiNotch, except where applicable law
+      expressly permits this despite this limitation;
+   d. remove or change copyright notices, names, logos, or this license;
+   e. reuse the DiNotch name, logo, artwork, screenshots, or documentation in other products.
+
+3. Repository contents
+   This repository only contains documentation, screenshots, and release downloads. Viewing or
+   forking the repository on GitHub does not grant any additional rights to the software or to
+   these materials.
+
+4. Third-party components
+   DiNotch includes third-party components that remain under their own licenses, listed in the app
+   under Settings › Tentang (About): NAudio (MIT), QRCoder (MIT), the built-in adhan recording
+   "The Adhan - Muslim Call to Prayer" by Aaqib Azeez (Wikimedia Commons, CC BY-SA 4.0), and data
+   from Open-Meteo (CC BY 4.0), BMKG, wilayah.id, LRCLIB, and public Google holiday calendars.
+
+5. No warranty
+   DiNotch is provided "as is", without warranty of any kind, express or implied, including but not
+   limited to merchantability, fitness for a particular purpose, and non-infringement. In no event
+   shall the copyright holder be liable for any claim, damages, or other liability arising from the
+   use of DiNotch.
+
+6. Termination
+   This license ends automatically if you break any of its terms. You must then delete all copies.
+
+---
+
+Ringkasan (Bahasa Indonesia)
+DiNotch gratis dipakai, tetapi bukan open source. Kamu boleh mengunduh rilis resmi dan memakainya
+di komputermu sendiri. Kamu tidak boleh menyebarkan ulang, menjual, mengubah, membongkar
+(decompile), atau memakai nama, logo, dan materi DiNotch tanpa izin tertulis dari Dipa.
