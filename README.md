@@ -32,14 +32,17 @@ notifikasi HP, kirim file ke HP, monitor PC, tangkap & rekam layar, dan maskot m
 | 🔔 **Suara & bahasa** | Suara notifikasi pendek yang lembut (6 pilihan), dan seluruh aplikasi tersedia dalam **Bahasa Indonesia atau English**. |
 | 🗂 **Rak & catatan** | Seret file ke island untuk disimpan sementara, seret keluar ke mana saja. Catatan cepat, riwayat clipboard. |
 | 👀 **Maskot** | Mata robot, kucing, kelinci, beruang, panda, rubah, anjing, katak, atau burung hantu yang melirik, mengikuti kursor dengan gerak alami, berkedip, mengangguk mengikuti musik, dan bereaksi. Banyak aksesori, juga di pill kecil. |
-| 🎨 **Tampilan** | Mode Island, Notch, dan Robot. Belasan skin bergradien, warna kustom, animasi pegas yang mengikuti refresh rate monitor. |
+| 🎨 **Tampilan** | Mode Island, Notch, dan Robot. 24 skin bergradien, warna kustom, ukuran per mode, tab di kanan atau atas, mode simpel, animasi pegas yang mengikuti refresh rate monitor. |
+| 🛍 **Toko & quest** | Poin dari pemakaian dan quest harian / mingguan, tukar dengan skin premium (Cyberpunk, Steampunk, Furry, Kawaii, Anime, Game, pemandangan) dan wallpaper sendiri. |
 
 
 ## Unduh & pasang
 
-1. Unduh `DiNotch.exe` dari [Releases](https://github.com/D1paak/DiNotch/releases/latest) (±4 MB).
-2. Pasang [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/8.0) (x64) bila belum ada.
-3. Jalankan `DiNotch.exe`. Tur singkat akan menjelaskan isinya. Pengaturan ada di ikon salju di tray.
+1. Unduh `DN-Setup.exe` dari [Releases](https://github.com/D1paak/DiNotch/releases/latest) (±4 MB).
+2. Jalankan, pilih folder, setujui syarat. Bila PC belum punya [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/8.0), installer mengunduh dan memasangnya sendiri dari Microsoft.
+3. DiNotch terbuka. Tur singkat akan menjelaskan isinya. Pengaturan ada di ikon salju di tray. Copot kapan saja dari Pengaturan Windows › Aplikasi.
+
+Masih memakai `DiNotch.exe` lama (v0.11.x)? Pasang sekali lewat `DN-Setup.exe`; setelah itu pembaruan berjalan otomatis.
 
 Persyaratan: Windows 10 (build 19041+) atau Windows 11, 64-bit.
 
