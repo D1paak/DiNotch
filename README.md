@@ -33,7 +33,7 @@ notifikasi HP, kirim file ke HP, monitor PC, tangkap & rekam layar, dan maskot m
 | 🗂 **Rak & catatan** | Seret file ke island untuk disimpan sementara, seret keluar ke mana saja. Catatan cepat, riwayat clipboard. |
 | 👀 **Maskot** | Mata robot, kucing, kelinci, beruang, panda, rubah, anjing, katak, atau burung hantu yang melirik, mengikuti kursor dengan gerak alami, berkedip, mengangguk mengikuti musik, dan bereaksi. Banyak aksesori, juga di pill kecil. |
 | 🎨 **Tampilan** | Mode Island, Notch, dan Robot. 24 skin bergradien, warna kustom, ukuran per mode, tab di kanan atau atas, mode simpel, animasi pegas yang mengikuti refresh rate monitor. |
-| 🛍 **Toko & quest** | Poin dari pemakaian dan quest harian / mingguan, tukar dengan skin premium (Cyberpunk, Steampunk, Furry, Kawaii, Anime, Game, pemandangan) dan wallpaper sendiri. |
+| 🛍 **Toko & quest** | Poin dari pemakaian dan quest harian / mingguan, tukar dengan skin premium (Mewah, Nusantara, Cyberpunk, Steampunk, Furry, Kawaii, Anime, Game, pemandangan), wallpaper sendiri, efek animasi, dan bingkai bercahaya. Skin bisa dicoba dulu sebelum dibeli. |
 
 
 ## Unduh & pasang
